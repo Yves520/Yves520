@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yves520
 - 👀 I’m interested in Web development, AI for international business
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on using new technologies to make deaily work easier by using with AI.
+- 💞️ I’m looking to collaborate on using new technologies to make daily work easier by using with AI.
 - 📫 How to reach me? please send E-mial via zhucehanghao@gmail.com, thank you!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
